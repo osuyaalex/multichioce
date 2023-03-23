@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378419743482",
+    "project_id": "multichoice-f0d66",
+    "storage_bucket": "multichoice-f0d66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378419743482:android:fd1d70012d0f1b10a69743",
+        "android_client_info": {
+          "package_name": "com.osuyaalex.multichoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378419743482-rksh52h692an4q40a14bsiu8q7eb9ur2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bIujx11dYk46Yfd9t8Z93XuMPFxEnxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378419743482-rksh52h692an4q40a14bsiu8q7eb9ur2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
